@@ -1,0 +1,15 @@
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.exe
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.deps.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.runtimeconfig.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\bin\Debug\net6.0\BasicPrograms.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.csproj.AssemblyReference.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.AssemblyInfo.cs
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\refint\BasicPrograms.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\BasicPrograms.genruntimeconfig.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\BasicCorePrograms\BasicPrograms\obj\Debug\net6.0\ref\BasicPrograms.dll
